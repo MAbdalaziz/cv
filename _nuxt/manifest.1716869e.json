@@ -1,0 +1,10 @@
+{
+  "name": "mohammed_abdalaziz_web_app",
+  "short_name": "mohammed_abdalaziz_web_app",
+  "description": "",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
